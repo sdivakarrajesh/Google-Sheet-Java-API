@@ -8,7 +8,7 @@
 To use this code
 
 ##  Get the credentials
--First go to 
+First go to 
 [console.developers.google.com](https://console.developers.google.com)
 and enable G+ api and Google SpreadSheet Api
 
