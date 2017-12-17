@@ -76,7 +76,12 @@ Licensed under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 ##  For more info and queries 
 
-email me:  dev.theblueorb@gmail.com
 
 Most of the code is self explainatory and also comments are added to get you through the code easily 
 Be sure to ping me too if there are bugs or if the code is not working as expected 
+
+
+email me:  dev.theblueorb@gmail.com
+
+
+My Play Store Developer page: https://play.google.com/store/apps/developer?id=THE%20BLUE-ORB&hl=en
