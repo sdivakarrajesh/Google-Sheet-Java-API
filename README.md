@@ -2,8 +2,8 @@
 
 ##  WHAT THIS APP DOES?
 
- This app contains sample code on how to implement the Google SpreadSheet APi properly. For the time being i have just implemented the methods to read and write(Append to be more specific) using the java client library.
- More code for achieving different features can be found in the official [documentation](https://developers.google.com/sheets/api/reference/rest/)
+ This app contains sample code on how to implement the Google SpreadSheet API properly. For the time being I have just implemented the methods to read and write(Append to be more specific) using the java client library.
+ More code for achieving different features can be found in the [official documentation](https://developers.google.com/sheets/api/reference/rest/)
  
 To use this code
 
@@ -11,7 +11,8 @@ To use this code
 -First go to 
 [console.developers.google.com](https://console.developers.google.com)
 and enable G+ api and Google SpreadSheet Api
--Then get the google services JSON from [here](https://developers.google.com/mobile/add?platform=android&cntapi=signin&cnturl=https:%2F%2Fdevelopers.google.com%2Fidentity%2Fsign-in%2Fandroid%2Fsign-in%3Fconfigured%3Dtrue&cntlbl=Continue%20Adding%20Sign-In) and add it to the app folder of your android project
+
+Then get the google services JSON from [here](https://developers.google.com/mobile/add?platform=android&cntapi=signin&cnturl=https:%2F%2Fdevelopers.google.com%2Fidentity%2Fsign-in%2Fandroid%2Fsign-in%3Fconfigured%3Dtrue&cntlbl=Continue%20Adding%20Sign-In) and add it to the app folder of your android project
 
 
 ##  Adding the permissions 
