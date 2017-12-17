@@ -302,7 +302,7 @@ public class appendToSheetActivity extends AppCompatActivity implements EasyPerm
 
 
         private void writeToSheetUsingApi() throws IOException, GeneralSecurityException {
-                String spreadsheetId = "1AQh4dLbPSO2zeuo0lm5WvA3q2at9taRj1iocOVGFsIU";
+                String spreadsheetId = "your_spreadsheet_id_here";
                 //TODO update the  spreadSheet Id to your spreadSheet ID
 
                 String range = "A1:X1";
