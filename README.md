@@ -2,7 +2,7 @@
 
 ##  WHAT THIS APP DOES?
 
- This app contains sample code on how to implement the Google SpreadSheet API properly. For the time being I have just implemented the methods to read and write(Append to be more specific) using the java client library.
+ This app contains sample code on how to implement the Google SpreadSheet API and Google Sign-In(Android Client API). For the time being I have just implemented the methods to read and write(Append to be more specific) using the java client library.
  More code for achieving different features can be found in the [official documentation](https://developers.google.com/sheets/api/reference/rest/)
  
 To use this code
